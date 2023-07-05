@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, how are you? My name is Ana Carolina!</h1>
-<h3 align="center">Apaixonada por Análise de Aados no mundo de HR</h3>
+<h3 align="center">Apaixonada por Análise de Dados no mundo de HR</h3>
 
 - 🔭 Atualmente estou trabalhando como **Recruiter e estudando para me tornar Data Scientist dentro de HR**
 
